@@ -1,0 +1,6 @@
+framework module KPLLogTWO {
+  umbrella header "KPLLogTWO-umbrella.h"
+
+  export *
+  module * { export * }
+}

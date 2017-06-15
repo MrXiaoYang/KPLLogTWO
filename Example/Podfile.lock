@@ -1,0 +1,16 @@
+PODS:
+  - KPLLogTWO (0.1.0)
+
+DEPENDENCIES:
+  - KPLLogTWO (from `../`)
+
+EXTERNAL SOURCES:
+  KPLLogTWO:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KPLLogTWO: 285f84a2ae249933affec19935b6c3df2128aa7a
+
+PODFILE CHECKSUM: bc5c57cb85b617feba4367aeeeba2c6f41d2b3ba
+
+COCOAPODS: 1.2.0

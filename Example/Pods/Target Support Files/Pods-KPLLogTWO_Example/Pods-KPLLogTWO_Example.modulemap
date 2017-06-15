@@ -1,0 +1,6 @@
+framework module Pods_KPLLogTWO_Example {
+  umbrella header "Pods-KPLLogTWO_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
