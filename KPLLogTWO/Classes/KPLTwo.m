@@ -1,14 +1,14 @@
 //
-//  KPLTWO.m
+//  KPLTwo.m
 //  Pods
 //
 //  Created by apple on 17/6/15.
 //
 //
 
-#import "KPLTWO.h"
+#import "KPLTwo.h"
 
-@implementation KPLTWO
+@implementation KPLTwo
 + (void)kpl_two {
     NSLog(@"two");
 }

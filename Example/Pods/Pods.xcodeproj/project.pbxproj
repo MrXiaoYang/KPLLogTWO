@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		188DDF501EF2556100CBEA14 /* KPLTWO.h in Headers */ = {isa = PBXBuildFile; fileRef = 188DDF4E1EF2556100CBEA14 /* KPLTWO.h */; };
-		188DDF511EF2556100CBEA14 /* KPLTWO.m in Sources */ = {isa = PBXBuildFile; fileRef = 188DDF4F1EF2556100CBEA14 /* KPLTWO.m */; };
+		188DDF5C1EF25B4600CBEA14 /* KPLTwo.h in Headers */ = {isa = PBXBuildFile; fileRef = 188DDF5A1EF25B4600CBEA14 /* KPLTwo.h */; };
+		188DDF5D1EF25B4600CBEA14 /* KPLTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = 188DDF5B1EF25B4600CBEA14 /* KPLTwo.m */; };
 		31C6F1A21C68406AF05D78B79A36E5AE /* Pods-KPLLogTWO_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C3A37AE100AE1CC4BF6D5B9CF9E6DF0 /* Pods-KPLLogTWO_Example-dummy.m */; };
 		4E4A472E34E8EAA3AAC3DD20CA14E18C /* Pods-KPLLogTWO_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DCD647B1AFE6924A18605CBB06ABB2F /* Pods-KPLLogTWO_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		57FBDB0FD3014C3BE282D7BA4A5FA65D /* Pods-KPLLogTWO_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F26CFC06058068DDA499BDC4B098B1C /* Pods-KPLLogTWO_Tests-dummy.m */; };
@@ -31,8 +31,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		188DDF4E1EF2556100CBEA14 /* KPLTWO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KPLTWO.h; sourceTree = "<group>"; };
-		188DDF4F1EF2556100CBEA14 /* KPLTWO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KPLTWO.m; sourceTree = "<group>"; };
+		188DDF5A1EF25B4600CBEA14 /* KPLTwo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KPLTwo.h; sourceTree = "<group>"; };
+		188DDF5B1EF25B4600CBEA14 /* KPLTwo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KPLTwo.m; sourceTree = "<group>"; };
 		28D88106683A1E0EC15B834CCD196686 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3429020B2AF2101C7B01E9F0668A891C /* KPLLogTWO.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = KPLLogTWO.modulemap; sourceTree = "<group>"; };
 		368C9D6EB00BF6A8F5932D0F0A5B3DA2 /* Pods-KPLLogTWO_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-KPLLogTWO_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -174,8 +174,8 @@
 		A4C549E849801CCF526E69D684486517 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				188DDF4E1EF2556100CBEA14 /* KPLTWO.h */,
-				188DDF4F1EF2556100CBEA14 /* KPLTWO.m */,
+				188DDF5A1EF25B4600CBEA14 /* KPLTwo.h */,
+				188DDF5B1EF25B4600CBEA14 /* KPLTwo.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -241,7 +241,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5DA4D8CEF9A1BE406EB0AC3A6C0FE010 /* KPLLogTWO-umbrella.h in Headers */,
-				188DDF501EF2556100CBEA14 /* KPLTWO.h in Headers */,
+				188DDF5C1EF25B4600CBEA14 /* KPLTwo.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -357,7 +357,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				188DDF511EF2556100CBEA14 /* KPLTWO.m in Sources */,
+				188DDF5D1EF25B4600CBEA14 /* KPLTwo.m in Sources */,
 				A1E07F908CC26B350804451203990B24 /* KPLLogTWO-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
