@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KPLLogTWO_Example' do
+  pod 'KPLLogTWO', :path => '../'
+
+  target 'KPLLogTWO_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
